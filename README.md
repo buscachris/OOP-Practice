@@ -14,3 +14,7 @@ I build each example separately because each file defines its own `main`. From t
 c++ Static-VS-Dynamic/main.cpp -o /tmp/binding-demo
 /tmp/binding-demo
 ```
+
+## License
+
+I license my C++ examples and accompanying notes under the [MIT License](LICENSE).
